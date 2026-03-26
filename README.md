@@ -28,7 +28,7 @@ I enjoy turning ideas into real products, exploring new technologies, and improv
 ## Tech I Like Working With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,go,react,nodejs,mysql,postgres,tailwind,bootstrap,git,github,vscode" alt="Tech stack icons" />
 </p>
 
 ## GitHub Snapshot
